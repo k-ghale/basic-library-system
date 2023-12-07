@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author kabin
+ *
+ */
+module MyLbrary {
+}
